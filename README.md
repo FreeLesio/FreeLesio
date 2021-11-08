@@ -1,6 +1,7 @@
 <h1>Welcome On My GitHub Profile</h1>
 
 <p>Welcome Here !</br>LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Aulnay-sous-Bois, France</b>, Currently Living In <img src="https://cdn-icons-png.flaticon.com/512/197/197568.png" width="15"/> <b>Vientiane, Laos</b>.</p>
+Self-Educated Like Be His Own Son
 <h3>Things I Code With</h3>
 <p>
 <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-0073aa?style=flat-square&logo=wordpress&logoColor=white"/>
