@@ -106,7 +106,9 @@ LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/1
 
 ---------------
 <p align="center">
-.: LESIO :.</br>« The quiter you become, the more you are able to hear. »
+▀▄▀▄▀▄▀▄▀▄ [ 𝕷𝕰𝕾𝖎𝕺 ] ▄▀▄▀▄▀▄▀▄▀
+<br>
+« The quiter you become, the more you are able to hear. »
 <br>
 <a href="https://lesio.fr/contact">Contact Me</a>
 </p>
