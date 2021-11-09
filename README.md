@@ -38,7 +38,7 @@ LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/1
 </thead>
 <tbody>
 
-<tr>
+<tr align="center">
 <td><a href="https://github.com/FreeLesio/WordPress-Silent-Backdoor"><b>WordPress Silent Backdoor</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"></td>
@@ -46,7 +46,7 @@ LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/1
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"/></td>
 </tr>
 
-<tr>
+<tr align="center">
 <td><a href="https://github.com/FreeLesio/WiFi-Evasion"><b>WiFi Evasion</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"></td>
@@ -54,7 +54,7 @@ LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/1
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"/></td>
 </tr>
 
-<tr>
+<tr align="center">
 <td><a href="https://github.com/FreeLesio/Rubber-Ducky-Reverse-Shell"><b>Rubber Ducky Reverse Shell</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"></td>
