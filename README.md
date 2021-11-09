@@ -8,19 +8,19 @@ LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/1
 
 <h3>Things I Code With</h3>
 <p>
-<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-0073aa?style=flat-square&logo=wordpress&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0f0a0a?style=flat-square&logo=github&logoColor=white"/>
-<img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-1e7dcd?style=flat-square&logo=powershell&logoColor=white"/> 
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e64b23?style=flat-square&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-284be6?style=flat-square&logo=css3&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e69100?style=flat-square&logo=mysql&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/-PHP-787db4?style=flat-square&logo=php&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/-Python-ffd241?style=flat-square&logo=python&logoColor=white"/>
-<img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4187f5?style=flat-square&logo=googlechrome&logoColor=white"/>
-<img alt="Brave" src="https://img.shields.io/badge/-Brave-ff2d0f?style=flat-square&logo=brave&logoColor=white"/>
-<img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-377df0?style=flat-square&logo=kali%20linux&logoColor=white"/>
-<img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-373737?style=flat-square&logo=ethereum&logoColor=white"/>
-<img alt="LUA" src="https://img.shields.io/badge/-LUA-000082?style=flat-square&logo=lua&logoColor=white"/>
+<img alt="WordPress" src="https://img.shields.io/badge/-WordPress-0073aa?style=flat-square&logo=wordpress&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0f0a0a?style=flat-square&logo=github&logoColor=white">
+<img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-1e7dcd?style=flat-square&logo=powershell&logoColor=white"> 
+<img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-377df0?style=flat-square&logo=kali%20linux&logoColor=white">
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e64b23?style=flat-square&logo=html5&logoColor=white">
+<img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-373737?style=flat-square&logo=ethereum&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-284be6?style=flat-square&logo=css3&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e69100?style=flat-square&logo=mysql&logoColor=white">
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-787db4?style=flat-square&logo=php&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/-Python-ffd241?style=flat-square&logo=python&logoColor=white">
+<img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4187f5?style=flat-square&logo=googlechrome&logoColor=white">
+<img alt="LUA" src="https://img.shields.io/badge/-LUA-000082?style=flat-square&logo=lua&logoColor=white">
+<img alt="Brave" src="https://img.shields.io/badge/-Brave-ff2d0f?style=flat-square&logo=brave&logoColor=white">
 </p>
 
 <h3>Open Source Projects</h3>
