@@ -18,7 +18,7 @@ LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/1
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e69100?style=flat-square&logo=mysql&logoColor=white">
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-787db4?style=flat-square&logo=php&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffd241?style=flat-square&logo=python&logoColor=white">
-<img alt="Chrome" src="https://img.shields.io/badge/-Chrome-4187f5?style=flat-square&logo=googlechrome&logoColor=white">
+<img alt="SVG" src="https://img.shields.io/badge/-SVG-ffb437?style=flat-square&logo=svg&logoColor=white">
 <img alt="LUA" src="https://img.shields.io/badge/-LUA-000082?style=flat-square&logo=lua&logoColor=white">
 <img alt="Brave" src="https://img.shields.io/badge/-Brave-ff2d0f?style=flat-square&logo=brave&logoColor=white">
 </p>
