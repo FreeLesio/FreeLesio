@@ -1,7 +1,9 @@
 <h1>Welcome On My GitHub Profile</h1>
 
-<p>Welcome Here !</br>LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Aulnay-sous-Bois, France</b>, Currently Living In <img src="https://cdn-icons-png.flaticon.com/512/197/197568.png" width="15"/> <b>Vientiane, Laos</b>.<br>
-Self-Educated Like Be His Own Son
+<p>
+Welcome Here !
+</br>
+LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="15"/> <b>Aulnay-sous-Bois, France</b>, Currently Living In <img src="https://cdn-icons-png.flaticon.com/512/197/197568.png" width="15"/> <b>Vientiane, Laos</b>.<br>
 </p>
 
 <h3>Things I Code With</h3>
@@ -20,7 +22,9 @@ Self-Educated Like Be His Own Son
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-373737?style=flat-square&logo=ethereum&logoColor=white"/>
 <img alt="LUA" src="https://img.shields.io/badge/-LUA-000082?style=flat-square&logo=lua&logoColor=white"/>
 </p>
+
 <h3>Open Source Projects</h3>
+
 <table>
 <thead align="center">
 <tr border: none;>
@@ -29,40 +33,70 @@ Self-Educated Like Be His Own Son
 <td><b>📚 Forks</b></td>
 <td><b>🛎 Issues</b></td>
 <td><b>📬 Pull Requests</b></td>
+
 </tr>
 </thead>
 <tbody>
+
 <tr>
-<td><p align="center"><a href="https://github.com/FreeLesio/WordPress-Silent-Backdoor"><b>WordPress Silent Backdoor</b></a></p></td>
-<td><p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Issues" src="https://img.shields.io/github/issues/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"/></p></td>
+<td><a href="https://github.com/FreeLesio/WordPress-Silent-Backdoor"><b>WordPress Silent Backdoor</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/wordpress-silent-backdoor?style=flat-square&labelColor=323c41"/></td>
 </tr>
+
 <tr>
-<td><p align="center"><a href="https://github.com/FreeLesio/WiFi-Evasion"><b>WiFi Evasion</b></a></td>
-<td><p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Issues" src="https://img.shields.io/github/issues/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"/></p></td>
+<td><a href="https://github.com/FreeLesio/WiFi-Evasion"><b>WiFi Evasion</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/wifi-evasion?style=flat-square&labelColor=323c41"/></td>
 </tr>
+
 <tr>
-<td><p align="center"><a href="https://github.com/FreeLesio/Rubber-Ducky-Reverse-Shell"><b>Rubber Ducky Reverse Shell</b></a></td>
-<td><p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Issues" src="https://img.shields.io/github/issues/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"/></p></td>
-<td><p align="center"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"/></p></td>
+<td><a href="https://github.com/FreeLesio/Rubber-Ducky-Reverse-Shell"><b>Rubber Ducky Reverse Shell</b></a></td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Issues" src="https://img.shields.io/github/issues/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/freelesio/rubber-ducky-reverse-shell?style=flat-square&labelColor=323c41"></td>
+
 </tr>
 </tbody>
 </table>
+
 <h3>My Latest Posts</h3>
+
 <ul>
-<li><a href="https://lesio.fr/comment-pirater-un-mot-de-passe-wifi-facilement/"><b>Comment pirater un mot de passe WiFi facilement ?</b></a><br/><i>Tutoriel pour pirater un mot de passe WiFi en quelques minutes seulement.</i></li>
-<li><a href="https://lesio.fr/comment-acheter-des-abonnes-sur-instagram/"><b>Comment acheter des abonnés sur Instagram</b></a><br/><i>Une critique impartiale sur l'achat d'abonnés et l'importance de la preuve sociale.</i></li>
-<li><a href="https://lesio.fr/rubber-ducky-la-cle-usb-des-pirates/"><b>Rubber Ducky, la clé USB préférée des pirates informatiques</b></a><br/><i>Présentation du produit de la société HAK5, la clé USB "Rubber Ducky".</i></li>
-<li><a href="https://lesio.fr/cryptojacking-plus-rentable-et-discret-que-les-ransomwares/"><b>Cryptojacking, plus rentable et discret que les ransomwares</b></a><br/><i>Définition et utilisation d'une nouvelle menace informatique dans un avenir proche.</i></li>
+
+<li>
+<a href="https://lesio.fr/comment-pirater-un-mot-de-passe-wifi-facilement/"><b>Comment pirater un mot de passe WiFi facilement ?</b></a>
+<br>
+<i>Tutoriel pour pirater un mot de passe WiFi en quelques minutes seulement.</i>
+</li>
+
+<li>
+<a href="https://lesio.fr/comment-acheter-des-abonnes-sur-instagram/"><b>Comment acheter des abonnés sur Instagram</b></a>
+<br>
+<i>Une critique impartiale sur l'achat d'abonnés et l'importance de la preuve sociale.</i>
+</li>
+
+<li>
+<a href="https://lesio.fr/rubber-ducky-la-cle-usb-des-pirates/"><b>Rubber Ducky, la clé USB préférée des pirates informatiques</b></a>
+<br>
+<i>Présentation du produit de la société HAK5, la clé USB "Rubber Ducky".</i>
+</li>
+
+<li>
+<a href="https://lesio.fr/cryptojacking-plus-rentable-et-discret-que-les-ransomwares/"><b>Cryptojacking, plus rentable et discret que les ransomwares</b></a>
+<br>
+<i>Définition et utilisation d'une nouvelle menace informatique dans un avenir proche.</i>
+</li>
+
 </ul>
+
 <h3>Where To Find Me</h3>
+
 <p>
 <a href="https://github.com/freelesio" target="_blank"><img src="https://img.shields.io/badge/github-%230f0a0a.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/lesio.graphiste" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23dc4178.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -71,5 +105,13 @@ Self-Educated Like Be His Own Son
 </p>
 
 ---------------
-<p align="center">.: LESIO :.</br>« The quiter you become, the more you are able to hear. »<br/><a href="https://lesio.fr/contact">Contact Me</a></p>
-<p align="center"><img src="https://img.shields.io/badge/CONTAINS-TASTY%20SPAGHETTI%20CODE-f5e6c8" /> <img src="https://img.shields.io/badge/WORKS%20ON-MY%20MACHINE-f03c14"/> <img src="https://img.shields.io/badge/POWERED%20BY-BLACK%20MAGIC-6e0555"/></p>
+<p align="center">
+.: LESIO :.</br>« The quiter you become, the more you are able to hear. »
+<br>
+<a href="https://lesio.fr/contact">Contact Me</a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/CONTAINS-TASTY%20SPAGHETTI%20CODE-f5e6c8">
+<img src="https://img.shields.io/badge/POWERED%20BY-BLACK%20MAGIC-6e0555">
+<img src="https://img.shields.io/badge/WORKS%20ON-MY%20MACHINE-f03c14">
+</p>
