@@ -10,9 +10,9 @@ LESiO, Web & Graphic Designer <img src="https://cdn-icons-png.flaticon.com/512/1
 <p>
 <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-0073aa?style=flat-square&logo=wordpress&logoColor=white">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-0f0a0a?style=flat-square&logo=github&logoColor=white">
-<img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-1e7dcd?style=flat-square&logo=powershell&logoColor=white"> 
-<img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-377df0?style=flat-square&logo=kali%20linux&logoColor=white">
+<img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-1e7dcd?style=flat-square&logo=powershell&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e64b23?style=flat-square&logo=html5&logoColor=white">
+<img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-377df0?style=flat-square&logo=kali%20linux&logoColor=white">
 <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-373737?style=flat-square&logo=ethereum&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-284be6?style=flat-square&logo=css3&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e69100?style=flat-square&logo=mysql&logoColor=white">
